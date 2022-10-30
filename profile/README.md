@@ -1,1 +1,1 @@
-![StudentiUniMi](studentiunimi.png)
+![StudentiUniMi](https://github.com/StudentiUniMi/.github/blob/master/images/studentiunimi.png)
